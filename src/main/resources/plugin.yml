@@ -1,0 +1,8 @@
+name: Test
+version: ${project.version}
+main: org.esmp.test.Test
+api-version: 1.16
+prefix: [ Test Plugin ]
+load: STARTUP
+authors: [ luke ]
+description: A sample Paper plugin
